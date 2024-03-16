@@ -1,0 +1,683 @@
+[
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": "TSLs",
+    "amt": "1000000000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": "TSLs",
+      "amt": "1000000000"
+    },
+    "limitPerMint": "1000000000",
+    "topFee": "26.9",
+    "totalMint": 1,
+    "totalSupply": "210000000000",
+    "holder": "7",
+    "mintAmount": "21000000000",
+    "mintedSheets": "21",
+    "remainingPercentage": "90.000 %",
+    "remainingPercent": "90.000",
+    "remainingSheets": "189",
+    "totalSheets": 210,
+    "deployTime": "2023/11/8 10:55:31",
+    "mempoolPercentage": "0.476",
+    "mainHashs": [
+      {
+        "mainHash": "a906982003774483f3d38f279407aaf863cca1b1a8dcf43cf2a1634d8e49ee60",
+        "feeRate": "26.9",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": ".pts",
+    "amt": "10000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": ".pts",
+      "amt": "10000"
+    },
+    "limitPerMint": "10000",
+    "topFee": "26.0",
+    "totalMint": 36,
+    "totalSupply": "210000000",
+    "holder": "41",
+    "mintAmount": "2180000",
+    "mintedSheets": "218",
+    "remainingPercentage": "98.962 %",
+    "remainingPercent": "98.962",
+    "remainingSheets": "20782",
+    "totalSheets": 21000,
+    "deployTime": "2023/12/20 18:08:31",
+    "mempoolPercentage": "0.171",
+    "mainHashs": [
+      {
+        "mainHash": "c616fbdeaeb2ca686e440732dd063924d996fce64af5cb8897cfdda27406e8d5",
+        "feeRate": "26.0",
+        "count": 60
+      }
+    ]
+  },
+  {
+    "p": "tap",
+    "op": "dmt-mint",
+    "tick": "memes",
+    "content": {
+      "p": "tap",
+      "op": "dmt-mint",
+      "dep": "afb28174e368b104323bfff5edc0d3c84e05328c33abd3d66a17e702650ed354i0",
+      "tick": "memes",
+      "blk": "290517"
+    },
+    "limitPerMint": "",
+    "topFee": "26.1",
+    "totalMint": 73,
+    "totalSupply": "",
+    "holder": "",
+    "mintAmount": "",
+    "mintedSheets": "",
+    "remainingPercentage": "",
+    "remainingPercent": "",
+    "remainingSheets": "",
+    "totalSheets": "",
+    "deployTime": "",
+    "mempoolPercentage": "",
+    "mainHashs": [
+      {
+        "mainHash": "234330e50d4ec631268269c09abc68569a2ef2d4108b6384ce767bc2816930ea",
+        "feeRate": "26.1",
+        "count": 28
+      },
+      {
+        "mainHash": "4c1df411a744bcd796a91f0454925ac315663e968c145c6a77faf40c74e0ea85",
+        "feeRate": "26.0",
+        "count": 14
+      },
+      {
+        "mainHash": "a63595d50f152582ecdf76a446f558a29d0ac01b932d971f29d40ef58d9268fa",
+        "feeRate": "25.1",
+        "count": 13
+      },
+      {
+        "mainHash": "984d6a8c9db8b85417711fb0569c1c20a27d419da2481e29d36a7a4670c64732",
+        "feeRate": "25.1",
+        "count": 16
+      },
+      {
+        "mainHash": "fae784f61fc497b8a7214d1c67b5ed45ed86a3c08fc2830625ac0054fbfe1cfa",
+        "feeRate": "19.1",
+        "count": 2
+      },
+      {
+        "mainHash": "2e167037abdcae2ba8961438f09d5d7b682e66f2054537c348403fdff3daf4b2",
+        "feeRate": "24.2",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": "0522",
+    "amt": "1000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": "0522",
+      "amt": "1000"
+    },
+    "limitPerMint": "1000",
+    "topFee": "25.0",
+    "totalMint": 23,
+    "totalSupply": "21000000",
+    "holder": "607",
+    "mintAmount": "18867003",
+    "mintedSheets": "18867",
+    "remainingPercentage": "10.157 %",
+    "remainingPercent": "10.157",
+    "remainingSheets": "2133",
+    "totalSheets": 21000,
+    "deployTime": "2023/4/27 17:02:46",
+    "mempoolPercentage": "0.110",
+    "mainHashs": [
+      {
+        "mainHash": "639b20c13ade30c5071e08038979045ed76a5ceb5788133bff7cffa99a4e0b2e",
+        "feeRate": "25.0",
+        "count": 30
+      }
+    ]
+  },
+  {
+    "p": "tap",
+    "op": "dmt-mint",
+    "tick": "bitcoinpunks",
+    "content": {
+      "p": "tap",
+      "op": "dmt-mint",
+      "dep": "767164ad5adcd64446c8442c4e870a4ebab0b9c995dea8b2bc2a9b96a45dd59ei0",
+      "tick": "bitcoinpunks",
+      "blk": "291398"
+    },
+    "limitPerMint": "",
+    "topFee": "25.1",
+    "totalMint": 17,
+    "totalSupply": "",
+    "holder": "",
+    "mintAmount": "",
+    "mintedSheets": "",
+    "remainingPercentage": "",
+    "remainingPercent": "",
+    "remainingSheets": "",
+    "totalSheets": "",
+    "deployTime": "",
+    "mempoolPercentage": "",
+    "mainHashs": [
+      {
+        "mainHash": "fdd46724ed578e3c01619a6d671bf4b330d2653276e00361156045e5df5a5ee7",
+        "feeRate": "25.1",
+        "count": 16
+      },
+      {
+        "mainHash": "fb71c02139f7bcf3b76628af6162030e0b4483e0426d2cc70a908795cc38dcc4",
+        "feeRate": "25.1",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": "@hal",
+    "amt": "10000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": "@hal",
+      "amt": "10000"
+    },
+    "limitPerMint": "10000",
+    "topFee": "45.1",
+    "totalMint": 177,
+    "totalSupply": "100000000",
+    "holder": "81",
+    "mintAmount": "63090000",
+    "mintedSheets": "6309",
+    "remainingPercentage": "36.910 %",
+    "remainingPercent": "36.910",
+    "remainingSheets": "3691",
+    "totalSheets": 10000,
+    "deployTime": "2024/3/2 13:00:47",
+    "mempoolPercentage": "1.770",
+    "mainHashs": [
+      {
+        "mainHash": "17363ca8b2a68d338553052635ffa39f73d71f005255dbbaaad678622ecea12d",
+        "feeRate": "24.0",
+        "count": 24
+      },
+      {
+        "mainHash": "4cac7cc18011b3267eaf3bc11f50e252924ffa8532a32bba38d138ab537c7b68",
+        "feeRate": "45.1",
+        "count": 100
+      },
+      {
+        "mainHash": "f03c248572acfdd086b9c419feef68a328e2ea0b102866da469343d50b756fc1",
+        "feeRate": "45.1",
+        "count": 25
+      },
+      {
+        "mainHash": "af44815baa32e7ca812b734158003fa09aad855c747dc34c0b11be19d026bb17",
+        "feeRate": "45.1",
+        "count": 100
+      }
+    ]
+  },
+  {
+    "p": "tap",
+    "op": "dmt-mint",
+    "tick": "boredapes",
+    "content": {
+      "p": "tap",
+      "op": "dmt-mint",
+      "dep": "c50fb9c8b14a8b6ba16bd2d0c38db9e18b28ce68bd330f642004d0b78c24de25i0",
+      "tick": "boredapes",
+      "blk": "291026"
+    },
+    "limitPerMint": "",
+    "topFee": "24.1",
+    "totalMint": 8,
+    "totalSupply": "",
+    "holder": "",
+    "mintAmount": "",
+    "mintedSheets": "",
+    "remainingPercentage": "",
+    "remainingPercent": "",
+    "remainingSheets": "",
+    "totalSheets": "",
+    "deployTime": "",
+    "mempoolPercentage": "",
+    "mainHashs": [
+      {
+        "mainHash": "2d99931cb04e0904ac35aaa9aad45f284d8b7c1fa61352f5dacbb1616e297f94",
+        "feeRate": "24.1",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "p": "tap",
+    "op": "dmt-mint",
+    "tick": "dog",
+    "content": {
+      "p": "tap",
+      "op": "dmt-mint",
+      "dep": "1a37f87d1f10ab163d30b7571330909e00b8f11730081e86c49f6e0fb654d7a6i0",
+      "tick": "dog",
+      "blk": "292092"
+    },
+    "limitPerMint": "",
+    "topFee": "23.1",
+    "totalMint": 20,
+    "totalSupply": "",
+    "holder": "",
+    "mintAmount": "",
+    "mintedSheets": "",
+    "remainingPercentage": "",
+    "remainingPercent": "",
+    "remainingSheets": "",
+    "totalSheets": "",
+    "deployTime": "",
+    "mempoolPercentage": "",
+    "mainHashs": [
+      {
+        "mainHash": "50b73161b1f415dbb2a59b739585932401526cdf1ceb4e59bcdc5656537f0132",
+        "feeRate": "23.1",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": "Hool",
+    "amt": "10000000000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": "Hool",
+      "amt": "10000000000"
+    },
+    "limitPerMint": "10000000000",
+    "topFee": "29.5",
+    "totalMint": 2,
+    "totalSupply": "10000000000",
+    "holder": "0",
+    "mintAmount": "0",
+    "mintedSheets": "0",
+    "remainingPercentage": "100.000 %",
+    "remainingPercent": "100.000",
+    "remainingSheets": "1",
+    "totalSheets": 1,
+    "deployTime": "2024/3/2 23:02:45",
+    "mempoolPercentage": "200.000",
+    "mainHashs": [
+      {
+        "mainHash": "98036eab3036901701a0b8399f8981eed7e1867c8d0de34d76440c2465d7fe3f",
+        "feeRate": "29.1",
+        "count": 1
+      },
+      {
+        "mainHash": "1efd4e4ca906f463a788fcd737116f2d3b2a37c5f8c55d3951fca3d5fc4197f5",
+        "feeRate": "29.5",
+        "count": 1
+      }
+    ]
+  }
+]
+			
+RECEIVED
+[
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": "TSLs",
+    "amt": "1000000000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": "TSLs",
+      "amt": "1000000000"
+    },
+    "limitPerMint": "1000000000",
+    "topFee": "26.9",
+    "totalMint": 1,
+    "totalSupply": "210000000000",
+    "holder": "7",
+    "mintAmount": "21000000000",
+    "mintedSheets": "21",
+    "remainingPercentage": "90.000 %",
+    "remainingPercent": "90.000",
+    "remainingSheets": "189",
+    "totalSheets": 210,
+    "deployTime": "2023/11/8 10:55:31",
+    "mempoolPercentage": "0.476",
+    "mainHashs": [
+      {
+        "mainHash": "a906982003774483f3d38f279407aaf863cca1b1a8dcf43cf2a1634d8e49ee60",
+        "feeRate": "26.9",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": ".pts",
+    "amt": "10000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": ".pts",
+      "amt": "10000"
+    },
+    "limitPerMint": "10000",
+    "topFee": "26.0",
+    "totalMint": 36,
+    "totalSupply": "210000000",
+    "holder": "41",
+    "mintAmount": "2180000",
+    "mintedSheets": "218",
+    "remainingPercentage": "98.962 %",
+    "remainingPercent": "98.962",
+    "remainingSheets": "20782",
+    "totalSheets": 21000,
+    "deployTime": "2023/12/20 18:08:31",
+    "mempoolPercentage": "0.171",
+    "mainHashs": [
+      {
+        "mainHash": "c616fbdeaeb2ca686e440732dd063924d996fce64af5cb8897cfdda27406e8d5",
+        "feeRate": "26.0",
+        "count": 60
+      }
+    ]
+  },
+  {
+    "p": "tap",
+    "op": "dmt-mint",
+    "tick": "memes",
+    "content": {
+      "p": "tap",
+      "op": "dmt-mint",
+      "dep": "afb28174e368b104323bfff5edc0d3c84e05328c33abd3d66a17e702650ed354i0",
+      "tick": "memes",
+      "blk": "290517"
+    },
+    "limitPerMint": "",
+    "topFee": "26.1",
+    "totalMint": 73,
+    "totalSupply": "",
+    "holder": "",
+    "mintAmount": "",
+    "mintedSheets": "",
+    "remainingPercentage": "",
+    "remainingPercent": "",
+    "remainingSheets": "",
+    "totalSheets": "",
+    "deployTime": "",
+    "mempoolPercentage": "",
+    "mainHashs": [
+      {
+        "mainHash": "234330e50d4ec631268269c09abc68569a2ef2d4108b6384ce767bc2816930ea",
+        "feeRate": "26.1",
+        "count": 28
+      },
+      {
+        "mainHash": "4c1df411a744bcd796a91f0454925ac315663e968c145c6a77faf40c74e0ea85",
+        "feeRate": "26.0",
+        "count": 14
+      },
+      {
+        "mainHash": "a63595d50f152582ecdf76a446f558a29d0ac01b932d971f29d40ef58d9268fa",
+        "feeRate": "25.1",
+        "count": 13
+      },
+      {
+        "mainHash": "984d6a8c9db8b85417711fb0569c1c20a27d419da2481e29d36a7a4670c64732",
+        "feeRate": "25.1",
+        "count": 16
+      },
+      {
+        "mainHash": "fae784f61fc497b8a7214d1c67b5ed45ed86a3c08fc2830625ac0054fbfe1cfa",
+        "feeRate": "19.1",
+        "count": 2
+      },
+      {
+        "mainHash": "2e167037abdcae2ba8961438f09d5d7b682e66f2054537c348403fdff3daf4b2",
+        "feeRate": "24.2",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": "0522",
+    "amt": "1000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": "0522",
+      "amt": "1000"
+    },
+    "limitPerMint": "1000",
+    "topFee": "25.0",
+    "totalMint": 23,
+    "totalSupply": "21000000",
+    "holder": "607",
+    "mintAmount": "18867003",
+    "mintedSheets": "18867",
+    "remainingPercentage": "10.157 %",
+    "remainingPercent": "10.157",
+    "remainingSheets": "2133",
+    "totalSheets": 21000,
+    "deployTime": "2023/4/27 17:02:46",
+    "mempoolPercentage": "0.110",
+    "mainHashs": [
+      {
+        "mainHash": "639b20c13ade30c5071e08038979045ed76a5ceb5788133bff7cffa99a4e0b2e",
+        "feeRate": "25.0",
+        "count": 30
+      }
+    ]
+  },
+  {
+    "p": "tap",
+    "op": "dmt-mint",
+    "tick": "bitcoinpunks",
+    "content": {
+      "p": "tap",
+      "op": "dmt-mint",
+      "dep": "767164ad5adcd64446c8442c4e870a4ebab0b9c995dea8b2bc2a9b96a45dd59ei0",
+      "tick": "bitcoinpunks",
+      "blk": "291398"
+    },
+    "limitPerMint": "",
+    "topFee": "25.1",
+    "totalMint": 17,
+    "totalSupply": "",
+    "holder": "",
+    "mintAmount": "",
+    "mintedSheets": "",
+    "remainingPercentage": "",
+    "remainingPercent": "",
+    "remainingSheets": "",
+    "totalSheets": "",
+    "deployTime": "",
+    "mempoolPercentage": "",
+    "mainHashs": [
+      {
+        "mainHash": "fdd46724ed578e3c01619a6d671bf4b330d2653276e00361156045e5df5a5ee7",
+        "feeRate": "25.1",
+        "count": 16
+      },
+      {
+        "mainHash": "fb71c02139f7bcf3b76628af6162030e0b4483e0426d2cc70a908795cc38dcc4",
+        "feeRate": "25.1",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": "@hal",
+    "amt": "10000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": "@hal",
+      "amt": "10000"
+    },
+    "limitPerMint": "10000",
+    "topFee": "45.1",
+    "totalMint": 177,
+    "totalSupply": "100000000",
+    "holder": "81",
+    "mintAmount": "63090000",
+    "mintedSheets": "6309",
+    "remainingPercentage": "36.910 %",
+    "remainingPercent": "36.910",
+    "remainingSheets": "3691",
+    "totalSheets": 10000,
+    "deployTime": "2024/3/2 13:00:47",
+    "mempoolPercentage": "1.770",
+    "mainHashs": [
+      {
+        "mainHash": "17363ca8b2a68d338553052635ffa39f73d71f005255dbbaaad678622ecea12d",
+        "feeRate": "24.0",
+        "count": 24
+      },
+      {
+        "mainHash": "4cac7cc18011b3267eaf3bc11f50e252924ffa8532a32bba38d138ab537c7b68",
+        "feeRate": "45.1",
+        "count": 100
+      },
+      {
+        "mainHash": "f03c248572acfdd086b9c419feef68a328e2ea0b102866da469343d50b756fc1",
+        "feeRate": "45.1",
+        "count": 25
+      },
+      {
+        "mainHash": "af44815baa32e7ca812b734158003fa09aad855c747dc34c0b11be19d026bb17",
+        "feeRate": "45.1",
+        "count": 100
+      }
+    ]
+  },
+  {
+    "p": "tap",
+    "op": "dmt-mint",
+    "tick": "boredapes",
+    "content": {
+      "p": "tap",
+      "op": "dmt-mint",
+      "dep": "c50fb9c8b14a8b6ba16bd2d0c38db9e18b28ce68bd330f642004d0b78c24de25i0",
+      "tick": "boredapes",
+      "blk": "291026"
+    },
+    "limitPerMint": "",
+    "topFee": "24.1",
+    "totalMint": 8,
+    "totalSupply": "",
+    "holder": "",
+    "mintAmount": "",
+    "mintedSheets": "",
+    "remainingPercentage": "",
+    "remainingPercent": "",
+    "remainingSheets": "",
+    "totalSheets": "",
+    "deployTime": "",
+    "mempoolPercentage": "",
+    "mainHashs": [
+      {
+        "mainHash": "2d99931cb04e0904ac35aaa9aad45f284d8b7c1fa61352f5dacbb1616e297f94",
+        "feeRate": "24.1",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "p": "tap",
+    "op": "dmt-mint",
+    "tick": "dog",
+    "content": {
+      "p": "tap",
+      "op": "dmt-mint",
+      "dep": "1a37f87d1f10ab163d30b7571330909e00b8f11730081e86c49f6e0fb654d7a6i0",
+      "tick": "dog",
+      "blk": "292092"
+    },
+    "limitPerMint": "",
+    "topFee": "23.1",
+    "totalMint": 20,
+    "totalSupply": "",
+    "holder": "",
+    "mintAmount": "",
+    "mintedSheets": "",
+    "remainingPercentage": "",
+    "remainingPercent": "",
+    "remainingSheets": "",
+    "totalSheets": "",
+    "deployTime": "",
+    "mempoolPercentage": "",
+    "mainHashs": [
+      {
+        "mainHash": "50b73161b1f415dbb2a59b739585932401526cdf1ceb4e59bcdc5656537f0132",
+        "feeRate": "23.1",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "p": "brc-20",
+    "op": "mint",
+    "tick": "Hool",
+    "amt": "10000000000",
+    "content": {
+      "p": "brc-20",
+      "op": "mint",
+      "tick": "Hool",
+      "amt": "10000000000"
+    },
+    "limitPerMint": "10000000000",
+    "topFee": "29.5",
+    "totalMint": 2,
+    "totalSupply": "10000000000",
+    "holder": "0",
+    "mintAmount": "0",
+    "mintedSheets": "0",
+    "remainingPercentage": "100.000 %",
+    "remainingPercent": "100.000",
+    "remainingSheets": "1",
+    "totalSheets": 1,
+    "deployTime": "2024/3/2 23:02:45",
+    "mempoolPercentage": "200.000",
+    "mainHashs": [
+      {
+        "mainHash": "98036eab3036901701a0b8399f8981eed7e1867c8d0de34d76440c2465d7fe3f",
+        "feeRate": "29.1",
+        "count": 1
+      },
+      {
+        "mainHash": "1efd4e4ca906f463a788fcd737116f2d3b2a37c5f8c55d3951fca3d5fc4197f5",
+        "feeRate": "29.5",
+        "count": 1
+      }
+    ]
+  }
+]
+			
